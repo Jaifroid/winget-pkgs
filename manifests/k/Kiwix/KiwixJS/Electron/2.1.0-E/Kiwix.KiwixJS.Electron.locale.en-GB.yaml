@@ -30,5 +30,5 @@ Tags:
 - kiwixjs
 - kiwix-js
 - kiwix-js-windows
-ManifestType: locale
+ManifestType: defaultLocale
 ManifestVersion: 1.1.0
