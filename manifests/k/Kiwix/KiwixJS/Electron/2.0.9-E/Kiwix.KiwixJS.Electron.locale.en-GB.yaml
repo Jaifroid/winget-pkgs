@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
 PackageIdentifier: Kiwix.KiwixJS.Electron
-PackageVersion: 2.0.9-E
+PackageVersion: 2.1.0-E
 PackageLocale: en-GB
 Publisher: Kiwix
 PublisherUrl: https://github.com/kiwix/kiwix-js-windows
@@ -31,4 +31,4 @@ Tags:
 - kiwix-js
 - kiwix-js-windows
 ManifestType: locale
-ManifestVersion: 1.0.0
+ManifestVersion: 1.1.0
